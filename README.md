@@ -3,7 +3,7 @@
 AIFitness is an AI-based web application fitness system. Users can do exercise without going outside and also there is no need to hire a costly personal trainer.  They can do exercise just standing in front of the webcam. It will be able to track their exercises like squats, curls,  pushups etc And  at the end, on the leaderboard. User's scores and other data  such as the user's calorie burn , exercise time are displayed. Users can  compare their scores with other users.
 
 ## 🔗 Links
-[![Demo](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/watch?v=Ce4xGf7Y838)
+[![Demo](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/watch?v=Ce4xGf7Y838)
 
 
 ## Screenshots
